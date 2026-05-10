@@ -1,4 +1,11 @@
 # Healthcare Backend API
+![Django](https://img.shields.io/badge/Django-5.2-green?logo=django)
+![DRF](https://img.shields.io/badge/DRF-3.x-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)
+![JWT](https://img.shields.io/badge/Auth-JWT-black)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## Tech Stack
 - Django
@@ -42,11 +49,11 @@ python manage.py runserver
 ```
 ## API Endpoints
 
-/api/auth/register/
-/api/auth/login/
-/api/patients/
-/api/doctors/
-/api/mappings/
+- /api/auth/register/
+- /api/auth/login/
+- /api/patients/
+- /api/doctors/
+- /api/mappings/
 
 ## Add requirements.txt
 
